@@ -1,0 +1,26 @@
+index.html
+music/node_modules
+server/node_modules
+
+logs
+*.log
+music/npm-debug.log*
+music/yarn-debug.log*
+music/yarn-error.log*
+music/pnpm-debug.log*
+music/lerna-debug.log*
+
+music/dist
+music/dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+music/.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
